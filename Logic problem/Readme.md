@@ -14,5 +14,5 @@ The teacher knows that only those who studied would be telling the truth and tho
 
 Answer:
 
-The only student who is telling the truth is Dan, and he is the only one who studied math yesterday.
+The only student who is telling the truth is Bob, and he is the only one who studied math yesterday.
 
